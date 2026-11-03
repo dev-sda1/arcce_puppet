@@ -1,0 +1,18 @@
+{
+  "name": "brunelgrid-arc_ce",
+  "version": "0.1.0",
+  "author": "brunelgrid",
+  "license": "Apache-2.0",
+  "summary": "Install and configure NorduGrid ARC-CE",
+  "source": "https://github.com/dev-sda1/arcce_puppet",
+  "dependencies": [],
+  "requirements": [
+    {
+      "name": "openvox",
+      "version_requirement": ">= 7.0.0 < 9.0.0"
+    }
+  ],
+  "operatingsystem_support": [],
+  "tags": ["arc", "gridpp", "ce", "arcce"],
+  "pdk-version": "3.4.0"
+}
