@@ -2,5 +2,5 @@
 
 require 'spec_helper_acceptance'
 
-describe 'arc-ce class' do
+describe 'arc_ce class' do
 end

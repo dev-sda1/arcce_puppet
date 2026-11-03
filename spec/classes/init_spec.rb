@@ -2,7 +2,7 @@
 
 require 'spec_helper'
 
-describe 'arc-ce' do
+describe 'arc_ce' do
   on_supported_os.each do |os, os_facts|
     context "on #{os}" do
       let(:facts) { os_facts }
